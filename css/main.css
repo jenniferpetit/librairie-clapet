@@ -341,14 +341,16 @@ button {
 
 .honey-pot__title {
   margin: 0;
-  font-size: 2em;
-  font-weight: bold;
+  font-size: 26px;
+  font-weight: 600;
+  font-family: 'Montserrat', sans-serif;
 }
 
 .honey-pot__subtitle {
   margin: 0;
-  font-size: 1.6em;
-  font-weight: 200;
+  font-size: 22px;
+  font-weight: 300;
+  font-family: 'Montserrat', sans-serif;
 }
 
 
@@ -382,21 +384,26 @@ button {
 
 .news__date {
   margin: 0;
-  font-size: 1.8em;
+  font-weight: 400;
   color: #e8a27d;
+  font-size: 18px;
+  font-family: 'Montserrat', sans-serif;
 }
 
 .news__title {
   margin: 0 0 15px;
-  font-weight: bold;
-  font-size: 2em;
+  font-weight: 500;
+  font-size: 24px;
   line-height: 1.4;
+  font-family: 'Montserrat', sans-serif;
 }
 
 .news__text {
   margin: 0;
-  font-size: 1.4em;
+  font-size: 20px;
   line-height: 1.4;
+  font-weight: 400;
+  font-family: 'Work Sans', sans-serif;
 }
 
 .page-list .news {
