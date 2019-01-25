@@ -530,5 +530,8 @@ padding-left: 20px;
 
 .colonnes {
   display: flex;
+}
+
+.colonne-image {
   min-width: 50%;
 }
