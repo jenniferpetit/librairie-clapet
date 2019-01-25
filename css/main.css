@@ -526,3 +526,9 @@ padding-left: 20px;
   color: #1a1a1a;
   text-align: right;
 }
+
+
+.colonnes {
+  display: flex;
+  min-width: 50%;
+}
