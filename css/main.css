@@ -199,7 +199,7 @@ button {
   font-size: 25px;
   font-family: 'Work Sans', sans-serif;
   font-weight: 400;
-  text-align: center;
+  text-align: justify;
 }
 
 .full-width {
@@ -493,6 +493,10 @@ button {
   font-family: 'Montserrat', sans-serif;
 }
 
+.citation {
+
+}
+
 .text-citation {
 color: #e8a27d;
 border-left: 4px solid grey;
@@ -534,4 +538,8 @@ padding-left: 20px;
 
 .colonne-image {
   min-width: 50%;
+}
+
+.petit-texte {
+font-size: 20px;
 }
