@@ -232,6 +232,17 @@ button {
   overflow: hidden;
 }
 
+.page-index.header {
+  position: relative;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 35px;
+  height: 350px;
+  background: url("../img/background.jpg");
+  background-size: 960px;
+  background-position: center bottom;
+  overflow: hidden;
+}
 
 .header__content {
   display: block;
@@ -467,13 +478,15 @@ button {
   margin: 0;
   font-size: 5.6em;
   line-height: 1.4;
-  font-weight: 500;
+  font-weight: 600;
+  font-family: 'Montserrat', sans-serif;
 }
 
 .page-single__subtitle {
   margin: 0;
   font-size: 3.2em;
   font-weight: 200;
+  font-family: 'Montserrat', sans-serif;
 }
 
 
@@ -558,3 +571,9 @@ margin-bottom: 50px;
   .colonne-texte {
   margin-left: 53px;
   }
+
+  .texte-bas {
+  font-size: 20px;
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 400;
+}
