@@ -681,4 +681,7 @@ grid-column: span 2;
   text-align: left;
   }
 
+  .news-list__gros2 {
+    grid-column: span 2;
+  }
 
