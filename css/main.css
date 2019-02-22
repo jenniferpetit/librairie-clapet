@@ -759,10 +759,30 @@ font-size: 20px;
 
 }
 
-.bd-titre{
+.bd-titre {
   margin : 25px 0;
   font-size: 42px;
-  font-weight: 300;
-
-
+ 
 }
+
+.madame {
+  min-width: 24%;
+align-items: center;
+margin-top: 32px;
+}
+
+.madame img {
+  width : 100%;
+  margin-left: 40px;
+}
+
+.homme {
+  min-width : 24%;
+  align-items: center;
+  margin-top: 35px;
+}
+
+.homme img {
+  width : 100%;
+}
+
